@@ -1,0 +1,7 @@
+adaptiveprofiling/project/build/
+adaptiveprofiling/project/.idea/
+.idea
+*.iml
+target
+scratch
+libs
